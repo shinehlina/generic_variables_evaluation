@@ -2,5 +2,6 @@ package demo;
 
 public enum ComputeEngineVariableType {
     BOOLEAN,
-    LIST
+    LIST,
+    INTEGER
 }
